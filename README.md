@@ -59,5 +59,5 @@ To run this project, you will need the following dependencies:
 - PostgreSQL
 
 ### Contributers
-https://github.com/ajsidd
-https://github.com/Emadkamali
+- https://github.com/ajsidd
+- https://github.com/Emadkamali
