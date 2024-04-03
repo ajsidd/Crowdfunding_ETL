@@ -18,10 +18,6 @@ In this mini-project, you will work with a partner to accomplish the following t
 
 Download the starter code and files from [Project 2 ETL files](https://static.bc-edx.com/data/dl-1-2/m13/lms/starter/Starter_Files.zip).
 
-### Instructions
-
-Follow the instructions provided in the notebook to complete the project deliverables. Make sure to collaborate effectively with your partner and maintain communication throughout the project.
-
 ## Deliverables
 
 ### 1. Category DataFrame
@@ -59,5 +55,5 @@ To run this project, you will need the following dependencies:
 - PostgreSQL
 
 ### Contributers
-- https://github.com/ajsidd
-- https://github.com/Emadkamali
+- [Amir Siddiqui](https://github.com/ajsidd)
+- [Emad Kamali](https://github.com/Emadkamali)
