@@ -49,3 +49,15 @@ Follow the instructions provided in the notebook to complete the project deliver
 - Design a table schema based on the provided ERD.
 - Create a PostgreSQL database and import CSV data into the appropriate tables.
 - Verify data integrity by querying each table.
+
+### 6. Dependencies
+To run this project, you will need the following dependencies:
+
+- Python 3.x
+- Pandas
+- NumPy
+- PostgreSQL
+
+### Contributers
+https://github.com/ajsidd
+https://github.com/Emadkamali
